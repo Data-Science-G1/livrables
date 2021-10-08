@@ -1,5 +1,6 @@
 ### macOS template
 # General
+.vscode
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -492,4 +493,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 data
+
+*.log
 
